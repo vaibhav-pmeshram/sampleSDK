@@ -17,14 +17,14 @@ Pod::Spec.new do |s|
 
   s.name         = "sampleSDK"
   s.version      = "1.0.0"
-  s.summary      = "A short description of sampleSDK. print asd."
+  s.summary      = "No such summary but Just to make sampleSDK to try making pod"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = "A short description of sampleSDK. print asd."
+  s.description  = "Some1 who is willing to make pod and create pod , make pod and all."
                   #= <<-DESC
                    #DESC
 
@@ -64,8 +64,8 @@ Pod::Spec.new do |s|
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-  # s.platform     = :ios
-  # s.platform     = :ios, "5.0"
+   s.platform     = :ios
+   s.platform     = :ios, "5.0"
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
