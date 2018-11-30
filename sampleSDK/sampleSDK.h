@@ -2,12 +2,9 @@
 //  sampleSDK.h
 //  sampleSDK
 //
-//  Created by Vaibhav on 29/11/18.
-//  Copyright © 2018 Vaibhav. All rights reserved.
+//  Created by Vaibhav Meshram on 29/11/18.
+//  Copyright © 2018 Vaibhav Meshram. All rights reserved.
 //
-//import sample
-//import AOModalStatus.Swift
-//import SwiftOnoneSupport
 #import <UIKit/UIKit.h>
 
 //! Project version number for sampleSDK.

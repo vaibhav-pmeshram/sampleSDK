@@ -2,8 +2,8 @@
 //  sample.swift
 //  sampleSDK
 //
-//  Created by Vaibhav on 30/11/18.
-//  Copyright © 2018 Vaibhav. All rights reserved.
+//  Created by Vaibhav Meshram  on 30/11/18.
+//  Copyright © 2018 Vaibhav Meshram. All rights reserved.
 //
 
 import UIKit
