@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8006498321B16A0E00BE4CA6 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 8006498121B16A0E00BE4CA6 /* LICENSE */; };
 		8006498421B16A0E00BE4CA6 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8006498221B16A0E00BE4CA6 /* README.md */; };
+		8006498621B16AA400BE4CA6 /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = 8006498521B16AA300BE4CA6 /* LICENSE.md */; };
 		809CFD1821B109550058EC65 /* sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 809CFD1721B109550058EC65 /* sample.swift */; settings = {ATTRIBUTES = (Public, ); }; };
 		80F2334321AFF6670037CDEB /* sampleSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80F2333921AFF6670037CDEB /* sampleSDK.framework */; };
 		80F2334821AFF6670037CDEB /* sampleSDKTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80F2334721AFF6670037CDEB /* sampleSDKTests.swift */; };
@@ -26,8 +26,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8006498121B16A0E00BE4CA6 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		8006498221B16A0E00BE4CA6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		8006498521B16AA300BE4CA6 /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 		809CFD1721B109550058EC65 /* sample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sample.swift; sourceTree = "<group>"; };
 		80F2333921AFF6670037CDEB /* sampleSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = sampleSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		80F2333C21AFF6670037CDEB /* sampleSDK.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sampleSDK.h; sourceTree = "<group>"; };
@@ -59,7 +59,7 @@
 		80F2332F21AFF6670037CDEB = {
 			isa = PBXGroup;
 			children = (
-				8006498121B16A0E00BE4CA6 /* LICENSE */,
+				8006498521B16AA300BE4CA6 /* LICENSE.md */,
 				8006498221B16A0E00BE4CA6 /* README.md */,
 				80F2333B21AFF6670037CDEB /* sampleSDK */,
 				80F2334621AFF6670037CDEB /* sampleSDKTests */,
@@ -188,7 +188,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8006498421B16A0E00BE4CA6 /* README.md in Resources */,
-				8006498321B16A0E00BE4CA6 /* LICENSE in Resources */,
+				8006498621B16AA400BE4CA6 /* LICENSE.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
